@@ -16,17 +16,7 @@ Record sales and purchases naturally, manage stock with confidence, and turn eve
 
 ---
 
-## Why StockFlow?
 
-Most student inventory projects stop at forms and CRUD operations. StockFlow goes further by combining real inventory workflows with safe, AI-assisted voice entry.
-
-An employee can say:
-
-> “Sold three notebooks to Rahul for 80 rupees each.”
-
-StockFlow interprets the command, matches it against the business's real product catalog, shows an editable preview, and updates inventory only after the user confirms it.
-
-The AI interprets language—but authorization, validation, stock checks, and database updates always remain controlled by the application.
 
 ## Highlights
 
